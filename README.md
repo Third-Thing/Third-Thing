@@ -6,8 +6,7 @@ Third-Thing is a unique dynamic process.
 
 ## Projects
 
-- creating a floem based markdown editor
-- contributing to floem 
+- creating a gpui-component based markdown editor
 
 ## Contact
 
