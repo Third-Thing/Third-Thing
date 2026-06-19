@@ -1,13 +1,6 @@
 # Third-Thing
 
-## About
-
-Third-Thing is a unique dynamic process.
-
-## Projects
-
-- creating a gpui-component based markdown editor
-- contributing to gpui-component
+I'm currently contemplating Wayland specific frameworks such as [Noctalia](https://github.com/noctalia-dev/noctalia).
 
 ## Contact
 
