@@ -1,6 +1,8 @@
 # Third-Thing
 
-I'm currently contemplating Wayland specific frameworks such as [Noctalia](https://github.com/noctalia-dev/noctalia).
+Interested in Wayland specific UI.
+
+Currently exploring [Noctalia](https://github.com/noctalia-dev/noctalia) and [RmlUI](https://github.com/mikke89/RmlUi).
 
 ## Contact
 
