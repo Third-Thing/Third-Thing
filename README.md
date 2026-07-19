@@ -1,8 +1,11 @@
 # Third-Thing
 
-Interested in Wayland specific UI.
+Interested in Wayland specific tools and programs written in C++ or Python.
 
-Currently exploring [Noctalia](https://github.com/noctalia-dev/noctalia) and [RmlUI](https://github.com/mikke89/RmlUi).
+## Projects
+
+- a Wayland only markdown editor based on a refactored Scintilla
+- a local C++ definition search tool
 
 ## Contact
 
