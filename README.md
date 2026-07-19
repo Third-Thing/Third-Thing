@@ -1,6 +1,6 @@
 # Third-Thing
 
-Interested in Wayland specific tools and programs written in C++ or Python.
+Interested in Linux/Wayland specific tools and programs written in C++ or Python.
 
 ## Projects
 
